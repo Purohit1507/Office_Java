@@ -8,7 +8,7 @@ public class Q2_with_IF_Else {
 		int i=0;
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter a character : ");
-		char ch=sc.next( ).charAt(0);	 
+		char ch=sc.next( ).charAt(0);	  // need to understand this in class (charAt(0) 
 		
 		
 		if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U')
